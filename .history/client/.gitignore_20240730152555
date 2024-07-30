@@ -1,0 +1,5 @@
+node_modules
+README.md,
+App.test.js,
+
+vercel.json
